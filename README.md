@@ -24,8 +24,8 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianab&data2=wuxianab1) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/wuxianab1) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxianab&data2=wuxianab1) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=wuxianab1) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxianab&aff_sub2=wuxianab1) | - |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=wuxianab1) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/wuxianab1) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxianab&data2=wuxianab1) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=wuxianab1) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=2gitwuxianab&aff_sub=2gitwuxianab&aff_sub2=wuxianab1) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官方网址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1) | - | - |
 | West梯子 | ⭐⭐⭐ | [West官方网址](https://fuqing.cz/aff.php?aff=2956) | - | - |
 
@@ -61,10 +61,10 @@
   <blockquote>
     <ul>
       <li>
-        <p><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN（优惠活动链接）</a>，这款<strong>在国内综合使用体验最好，速度在我所用过的VPN中最快</strong>，也是我自己最喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<strong><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank">打开ExpressVPN官网</a>需其他梯子</strong>。它设备支持最全面，<strong>iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选</strong>，已经运营了14年（至2022年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。<strong>平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高</strong>。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路可能速度变慢或连不上，如果遇到连接问题，可以切换L2TP协议（电脑端）或IKEV-2协议连接其他非推荐线路，也有部分线路在敏感时期仍然可用，可以作为备用选择，<strong>遇到推荐的服务器线路不能连接，更新一般需要2-3个工作日左右，各个系统的客户端更新版本开始陆续推出，注意要更新最新的客户端才能恢复使用推荐的线路</strong>。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看<a href="#如何购买expressvpn">购买ExpressVPN的方法</a>）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。</p>
+        <p><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN（优惠活动链接）</a>，这款<strong>在国内综合使用体验最好，速度在我所用过的VPN中最快</strong>，也是我自己最喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<strong><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">打开ExpressVPN官网</a>需其他梯子</strong>。它设备支持最全面，<strong>iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选</strong>，已经运营了14年（至2022年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。<strong>平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高</strong>。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路可能速度变慢或连不上，如果遇到连接问题，可以切换L2TP协议（电脑端）或IKEV-2协议连接其他非推荐线路，也有部分线路在敏感时期仍然可用，可以作为备用选择，<strong>遇到推荐的服务器线路不能连接，更新一般需要2-3个工作日左右，各个系统的客户端更新版本开始陆续推出，注意要更新最新的客户端才能恢复使用推荐的线路</strong>。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看<a href="#如何购买expressvpn">购买ExpressVPN的方法</a>）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。</p>
       </li>
       <li>
-        <p><a href="#2-strongvpn--性价比最佳">StrongVPN</a>，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市），位于美国硅谷。目前StrongVPN的<strong>价格在大厂VPN中最便宜</strong>，综合性价比不错，支持支付宝付款，这点比较方便。我已经使用了3年左右，总体来讲，在过去3年的使用时间里，全年可用率基本能达到95%左右，不挑线路的话几乎是100%能连，线路的服务器也会常年更新。<strong>使用请注意：在国内的Windows、Mac和安卓用户建议使用StrongVPN特供的精简客户端，可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅</strong>，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新版本，<strong>国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程</strong>。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的iOS版APP，而且StrongVPN的通用iOS版本在国内使用的稳定性相对于Express欠佳，使用时需联系客服进行手动配置翻墙，怕麻烦的话，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN</a>。<strong>Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了</strong>。StrongVPN官网域名在中国被墙（软件APP能正常使用），<a href="#如何打开strongvpn官网">国内的网络打开StrongVPN官网</a>需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。<strong>StrongVPN的退款时限是30天</strong>，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。另外支付宝Alipay付款请查看后文提示，避免出现问题无法付款。</p>
+        <p><a href="#2-strongvpn--性价比最佳">StrongVPN</a>，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市），位于美国硅谷。目前StrongVPN的<strong>价格在大厂VPN中最便宜</strong>，综合性价比不错，支持支付宝付款，这点比较方便。我已经使用了3年左右，总体来讲，在过去3年的使用时间里，全年可用率基本能达到95%左右，不挑线路的话几乎是100%能连，线路的服务器也会常年更新。<strong>使用请注意：在国内的Windows、Mac和安卓用户建议使用StrongVPN特供的精简客户端，可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅</strong>，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新版本，<strong>国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程</strong>。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的iOS版APP，而且StrongVPN的通用iOS版本在国内使用的稳定性相对于Express欠佳，使用时需联系客服进行手动配置翻墙，怕麻烦的话，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN</a>。<strong>Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了</strong>。StrongVPN官网域名在中国被墙（软件APP能正常使用），<a href="#如何打开strongvpn官网">国内的网络打开StrongVPN官网</a>需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。<strong>StrongVPN的退款时限是30天</strong>，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。另外支付宝Alipay付款请查看后文提示，避免出现问题无法付款。</p>
       </li>
     </ul>
   </blockquote>
@@ -245,13 +245,13 @@
     <p>注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，我会在文中就每款VPN最近的使用体验进行总结，该文章会不断更新，请收藏本页面以便以后查看。</p>
   </blockquote>
 
-  <h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
+  <h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
 
   <blockquote>
     <p>2022年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay等线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，<strong>ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方在2021年新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款</strong>。目前由于国内政策原因，Express的支付宝付款通道被支付宝方面暂停了，可以优先选择国内银行卡、Paypal或带外币功能的信用卡购买。</p>
   </blockquote>
 
-  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1"><img src="https://www.safewebcn.com/img/express-logo-2021.png" alt="ExpressVPN" /></a></p>
+  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1"><img src="https://www.safewebcn.com/img/express-logo-2021.png" alt="ExpressVPN" /></a></p>
 
   <p>ExpressVPN最近几年一直是翻墙用户第一档的选择，尤其是注重翻墙安全的用户，虽然敏感时期有时也会有连不上、掉线的情况，但一般2个工作日就会对服务器线路、IP进行更新，用户直接更新客户端就恢复正常使用了，可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，<strong>适合对网络速度要求高和较好使用体验的朋友</strong>。</p>
 
@@ -307,9 +307,9 @@
 
   <p>国内银行卡购买ExpressVPN步骤如下：</p>
 
-  <p>首先进入<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：</p>
+  <p>首先进入<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：</p>
 
-  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png" alt="ExpressVPN套餐" /></a></p>
+  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png" alt="ExpressVPN套餐" /></a></p>
 
   <p>输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。</p>
 
@@ -339,7 +339,7 @@
 
   <h3 id="expressvpn的缺点">ExpressVPN的缺点</h3>
 
-  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1"><img src="https://www.safewebcn.com/img/express-vpn-servers-min.png" alt="express-vpn-servers" /></a></p>
+  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1"><img src="https://www.safewebcn.com/img/express-vpn-servers-min.png" alt="express-vpn-servers" /></a></p>
 
   <ul>
     <li>ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠<strong>买一年送三个月活动，每月$6.67/月</strong>，支持银联卡、Paypal和信用卡等支付方式。</li>
@@ -412,7 +412,7 @@
 
   <p>套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。</p>
 
-  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png" alt="ExpressVPN付款方式" title="ExpressVPN付款方式截图" /></a></p>
+  <p><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png" alt="ExpressVPN付款方式" title="ExpressVPN付款方式截图" /></a></p>
 
   <p>ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：<a href="#怎么下载和登录vpn客户端">怎么下载和登录VPN客户端?</a></p>
 
@@ -426,7 +426,7 @@
     <p><strong>推荐用户</strong>：对速度和稳定性有要求的用户、iPhone用户首选</p>
   </blockquote>
 
-  <h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
+  <h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
 
   <blockquote>
     <p>由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。</p>
@@ -447,7 +447,7 @@
   <p><a href="#2-strongvpn--性价比最佳"><img src="https://www.safewebcn.com/img/strong-logo.png" alt="StrongVPN" /></a></p>
 
   <blockquote>
-    <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
+    <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
   </blockquote>
 
   <p>StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。</p>
@@ -987,10 +987,10 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianab&data2=wuxianab1) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/wuxianab1) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxianab&data2=wuxianab1) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=wuxianab1) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxianab&aff_sub2=wuxianab1) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxianab&data2=wuxianab1) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxianab&data2=wuxianab1) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxianab&data2=wuxianab1) |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=wuxianab1) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/wuxianab1) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxianab&data2=wuxianab1) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=wuxianab1) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=2gitwuxianab&aff_sub=2gitwuxianab&aff_sub2=wuxianab1) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxianab&data2=wuxianab1) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxianab&data2=wuxianab1) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxianab&data2=wuxianab1) |
 | Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxiandd&data2=wuxianab1) | - | - |
 
 
@@ -998,9 +998,9 @@
 
 |  梯子   | 特点  |
 |  ----  | ----  |
-| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=wuxianab1) | 网速一流的VPN |
-| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=wuxianab1) | 最推荐，顶级VPN品牌之一 |
-| [ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxianab&subId2=wuxianab1) | TOP1品牌 |
+| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=wuxianab1) | 网速一流的VPN |
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=wuxianab1) | 最推荐，顶级VPN品牌之一 |
+| [ExpressVPN](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=wuxianab1) | TOP1品牌 |
 
 
 ----
